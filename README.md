@@ -3,7 +3,8 @@
 |          |                   |
 |----------|-------------------|
 | Semester |    Spring 2022    |
-|  Faculty | Shimin Shuai, PhD |
+|  Faculty | Shimin Shuai, PhD (shuaism at sustech.edu.cn) |
+|    TA    |        TBD        |
 |   Time   |        TBD        |
 | Location |        TBD        |
 
