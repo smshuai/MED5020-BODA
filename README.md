@@ -1,2 +1,4 @@
-# med5020-boda
-MED5020: Biomedical Omics Data Analysis
+# MED5020: Biomedical Omics Data Analysis (Spring 2022)
+## Course Description
+## Syllabus
+## Grading
